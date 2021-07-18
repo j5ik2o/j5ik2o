@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **j5ik2o/j5ik2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Links
+
+- https://blog.j5ik2o.me
+- https://twitter.com/j5ik2o
+- https://github.com/j5ik2o
+- https://speakerdeck.com/j5ik2o
+- https://zenn.dev/j5ik2o
+- https://lapras.com/public/NHXS5RH
