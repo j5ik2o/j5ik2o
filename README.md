@@ -48,6 +48,22 @@ Here are some ideas to get you started:
   - シニアエンジニア
 - 株式会社ドワンゴ 2011/8〜2013/2
 
+## 副業
+
+- アーキテクチャ・レビュー
+  - リアクティブシステム
+  - CQRS/Event Sourcing
+- ドメイン・モデリングのサポート
+  - RDRA
+  - ICONIX
+  - Event Storming
+- ドメイン・コードレビュー
+  - Rust
+  - Scala
+  - Java
+  - Ruby
+  - PHP
+
 ## リンク
 
 - https://blog.j5ik2o.me
