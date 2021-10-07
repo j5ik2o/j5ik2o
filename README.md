@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 ## 主なスキル
 
 - Scala/Rust
+  - 本業ではScala/Akkaを使った分散システムの設計・実装を担当しています。
+  - 趣味ではもっぱらRustで遊んでいます。
 - ドメイン駆動設計
+  - 10年以上現場での導入・実践経験があります。チームへのインストールも数多くやっています。 
 - CQRS/Event Sourcing
 - リアクティブ・システム
 
