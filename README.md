@@ -53,19 +53,9 @@ Here are some ideas to get you started:
 企業向け支援として、以下のメニューでサポートさせていただいています。
 
 - アーキテクチャ・レビュー
-  - リアクティブシステム
-  - CQRS/Event Sourcing
 - ドメイン・モデリングのサポート
-  - RDRA
-  - ICONIX
-  - Event Storming
-- ドメイン・コードレビュー
-  - Rust
-  - Scala
-  - Java
-  - Ruby
-  - PHP
-- Akka導入支援
+- ドメイン・コードレビュー(プログラミング言語不問)
+- Scala/Akka導入支援
 
 ## リンク
 
