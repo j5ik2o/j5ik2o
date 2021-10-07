@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ## 書籍のレビュー
 
-- エリックエヴァンスのドメイン駆動設計
-- Akka実践バイブル
-- ドメイン駆動設計入門
+- [エリックエヴァンスのドメイン駆動設計](https://amzn.to/2YsDrfr)
+- [Akka実践バイブル](https://amzn.to/3BlcmcC)
+- [ドメイン駆動設計入門](https://amzn.to/3AjfvYU)
 
 ## 直近の職歴
 
@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 - 株式会社ドワンゴ 2011/8〜2013/2
 
 ## 副業
+
+企業向け支援として、以下のメニューでサポートさせていただいています。
 
 - アーキテクチャ・レビュー
   - リアクティブシステム
@@ -63,6 +65,7 @@ Here are some ideas to get you started:
   - Java
   - Ruby
   - PHP
+- Akka導入支援
 
 ## リンク
 
