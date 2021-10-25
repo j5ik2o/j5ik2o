@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 - ドメイン・コードレビュー(プログラミング言語不問)
 - Scala/Akka導入支援
 
+※直接、実装タスクを請け負うことはしていません。設計や実装のレビューや相談などがメインです。
+
 ## リンク
 
 - https://blog.j5ik2o.me
