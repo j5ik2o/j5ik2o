@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 加藤 潤一(かとう じゅんいち)
 
-## 最近の記事
-
-- [Chatworkでは、人と一緒に働くのが楽しい。こんな気持ちになれたことに驚いた。](https://chado.chatwork.com/entry/2021/02/02/100000)
-- [Chatworkテックリードが“今”の自分に集中してきた理由。Scala×DDDに出会い、サービス改善に生かすまで](https://engineer-lab.findy-code.io/DDD-Scala)
-- [ドメイン駆動設計をわかりやすく - ドメインのモデル設計を手を動かしながら学ぼう](https://eh-career.com/engineerhub/entry/2020/05/26/103000)
-
 ## 生年月日
 
 1972年2月3日
@@ -56,7 +50,7 @@ Here are some ideas to get you started:
 勉強会・座談会・相談会は初回無料で対応可能です。
 詳細は以下をご覧ください。
 
-https://www.notion.so/106c8956bc33489b86874694ba9589fd
+https://www.notion.so/106c8956bc3489b86874694ba9589fd
 
 ## 連絡先
 
