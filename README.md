@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 
 ## 書籍のレビュー
 
-- [エリックエヴァンスのドメイン駆動設計](https://amzn.to/2YsDrfr)
-- [Akka実践バイブル](https://amzn.to/3BlcmcC)
+- [良いコード／悪いコードで学ぶ設計入門](https://amzn.to/3zsY3EB)
 - [ドメイン駆動設計入門](https://amzn.to/3AjfvYU)
+- [Akka実践バイブル](https://amzn.to/3BlcmcC)
+- [エリックエヴァンスのドメイン駆動設計](https://amzn.to/2YsDrfr)
 
 ## 直近の職歴
 
