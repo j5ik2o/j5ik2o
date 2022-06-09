@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 勉強会・座談会・相談会は初回無料で対応可能です。
 詳細は以下をご覧ください。
 
-https://www.notion.so/106c8956bc3489b86874694ba9589fd
+https://utopian-cyclamen-728.notion.site/106c8956bc33489b86874694ba9589fd
 
 ## 連絡先
 
