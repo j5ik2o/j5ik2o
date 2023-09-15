@@ -70,13 +70,6 @@ https://utopian-cyclamen-728.notion.site/106c8956bc33489b86874694ba9589fd
 
 https://github.com/sponsors/j5ik2o
 
-## Github Stats
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=j5ik2o&count_private=true&show_icons=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j5ik2o&layout=compact" />
-</div>
-
 ## 作業中のリポジトリ
 
 ### j5ik2o/event-store-adapter
@@ -86,4 +79,13 @@ https://github.com/sponsors/j5ik2o
 - [j5ik2o/event-store-adapter-kotlin](https://github.com/j5ik2o/event-store-adapter-kotlin)
 - [j5ik2o/event-store-adapter-rs](https://github.com/j5ik2o/event-store-adapter-rs)
 - [j5ik2o/event-store-adapter-go](https://github.com/j5ik2o/event-store-adapter-go)
+
+## Github Stats
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=j5ik2o&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j5ik2o&layout=compact" />
+</div>
+
+
 
