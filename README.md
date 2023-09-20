@@ -80,6 +80,7 @@ https://github.com/sponsors/j5ik2o
 - [j5ik2o/event-store-adapter-rs](https://github.com/j5ik2o/event-store-adapter-rs)
 - [j5ik2o/event-store-adapter-go](https://github.com/j5ik2o/event-store-adapter-go)
 - [j5ik2o/event-store-adapter-js](https://github.com/j5ik2o/event-store-adapter-js)
+- [j5ik2o/event-store-adapter-dotnet](https://github.com/j5ik2o/event-store-adapter-dotnet)
 
 ## Github Stats
 
