@@ -55,7 +55,7 @@ https://utopian-cyclamen-728.notion.site/106c8956bc33489b86874694ba9589fd
 
 ## 連絡先
 
-ご用命がある場合は j5ik2o@gmail.com までDMをください(DMは解放しています)。
+ご用命がある場合は j5ik2o@gmail.com までご連絡ください。
 
 ## リンク
 
