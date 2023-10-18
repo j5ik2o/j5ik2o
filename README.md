@@ -72,7 +72,7 @@ https://github.com/sponsors/j5ik2o
 
 ## 作業中のリポジトリ
 
-### j5ik2o/event-store-adapter
+### j5ik2o/event-store-adapter-*
 
 - [j5ik2o/event-store-adapter-java](https://github.com/j5ik2o/event-store-adapter-java)
 - [j5ik2o/event-store-adapter-scala](https://github.com/j5ik2o/event-store-adapter-scala)
@@ -81,6 +81,7 @@ https://github.com/sponsors/j5ik2o
 - [j5ik2o/event-store-adapter-go](https://github.com/j5ik2o/event-store-adapter-go)
 - [j5ik2o/event-store-adapter-js](https://github.com/j5ik2o/event-store-adapter-js)
 - [j5ik2o/event-store-adapter-dotnet](https://github.com/j5ik2o/event-store-adapter-dotnet)
+- [j5ik2o/event-store-adapter-php](https://github.com/j5ik2o/event-store-adapter-php)
 
 ## Github Stats
 
