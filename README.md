@@ -59,12 +59,13 @@ https://utopian-cyclamen-728.notion.site/106c8956bc33489b86874694ba9589fd
 
 ## リンク
 
-- https://blog.j5ik2o.me
-- https://twitter.com/j5ik2o
-- https://github.com/j5ik2o
-- https://speakerdeck.com/j5ik2o
 - https://zenn.dev/j5ik2o
+- https://sizu.me/j5ik2o
+- https://blog.j5ik2o.me
+- https://speakerdeck.com/j5ik2o
 - https://lapras.com/public/NHXS5RH
+- https://github.com/j5ik2o
+- https://twitter.com/j5ik2o
 
 ## Github Sponsor
 
