@@ -72,19 +72,6 @@ https://utopian-cyclamen-728.notion.site/106c8956bc33489b86874694ba9589fd
 
 https://github.com/sponsors/j5ik2o
 
-## 作業中のリポジトリ
-
-### j5ik2o/event-store-adapter-*
-
-- [j5ik2o/event-store-adapter-java](https://github.com/j5ik2o/event-store-adapter-java)
-- [j5ik2o/event-store-adapter-scala](https://github.com/j5ik2o/event-store-adapter-scala)
-- [j5ik2o/event-store-adapter-kotlin](https://github.com/j5ik2o/event-store-adapter-kotlin)
-- [j5ik2o/event-store-adapter-rs](https://github.com/j5ik2o/event-store-adapter-rs)
-- [j5ik2o/event-store-adapter-go](https://github.com/j5ik2o/event-store-adapter-go)
-- [j5ik2o/event-store-adapter-js](https://github.com/j5ik2o/event-store-adapter-js)
-- [j5ik2o/event-store-adapter-dotnet](https://github.com/j5ik2o/event-store-adapter-dotnet)
-- [j5ik2o/event-store-adapter-php](https://github.com/j5ik2o/event-store-adapter-php)
-
 ## Github Stats
 
 <div>
