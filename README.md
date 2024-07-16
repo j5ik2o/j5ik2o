@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ## 書籍のレビュー
 
+- [関数型ドメインモデリング ドメイン駆動設計とF#でソフトウェアの複雑さに立ち向かおう](https://amzn.to/4d3cfVm)
 - [良いコード／悪いコードで学ぶ設計入門](https://amzn.to/3zsY3EB)
 - [ドメイン駆動設計入門](https://amzn.to/3AjfvYU)
 - [Akka実践バイブル](https://amzn.to/3BlcmcC)
